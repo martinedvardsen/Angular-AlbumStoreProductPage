@@ -26,7 +26,6 @@ var appRoutes: Routes = [
     pathMatch: "full"
   }
 ];
-
 @NgModule({
   declarations: [
     AppComponent,
